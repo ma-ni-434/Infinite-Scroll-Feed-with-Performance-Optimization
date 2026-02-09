@@ -25,3 +25,6 @@ android/app/build/outputs/apk/release/
 ## Optimizations
 - Virtualized FlatList
 - Lazy lo
+
+## APK Download
+https://github.com/ma-ni-434/Infinite-Scroll-Feed-with-Performance-Optimization/releases/download/v1.0/FeedApp-release.apk
