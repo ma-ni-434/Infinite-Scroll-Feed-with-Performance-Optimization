@@ -73,3 +73,25 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# node
+node_modules/
+
+# react native
+android/.gradle/
+android/app/build/
+android/build/
+ios/build/
+
+# misc
+.expo/
+.bundle/
+dist/
+build/
+*.log
+
+# vscode
+.vscode/
+
+# env
+.env
